@@ -26,8 +26,9 @@ This project uses two n8n workflows:
 
 ## Screenshots
 
-Workflow screenshots will be added in the `screenshots` folder.
+### Appointment Automation Workflow (n8n)
 
+![Appointment workflow](screenshots/appointment-workflow.png)
 ## Note
 
 This project was tested end-to-end in **Stripe Test Mode**. No real payments are processed.
