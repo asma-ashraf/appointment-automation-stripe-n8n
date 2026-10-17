@@ -28,7 +28,7 @@ This project uses two n8n workflows:
 
 ### Appointment Automation Workflow (n8n)
 
-![Appointment workflow](screenshots/appointment-workflow.png)
+![Appointment workflow](appointment-workflow.png)
 ## Note
 
 This project was tested end-to-end in **Stripe Test Mode**. No real payments are processed.
