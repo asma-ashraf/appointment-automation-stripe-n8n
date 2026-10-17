@@ -29,6 +29,10 @@ This project uses two n8n workflows:
 ### Appointment Automation Workflow (n8n)
 
 ![Appointment workflow](appointment-workflow.png)
+
+### Stripe Payment Webhook Workflow (n8n)
+
+![Stripe webhook workflow](stripe-webhook-workflow.png)
 ## Note
 
 This project was tested end-to-end in **Stripe Test Mode**. No real payments are processed.
